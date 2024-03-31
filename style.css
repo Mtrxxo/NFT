@@ -156,7 +156,7 @@ border-radius: 10px;
 }
 }
 
-@media (min-height:400px){
+@media (max-height:500px){
     .body__section{
         width: 320px;
         margin-top: 5rem;
